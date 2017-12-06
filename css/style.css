@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background-color: rgb(194, 163, 179);
+  background: linear-gardient(#996680, #ad859a, #b894a6,#c2a3b3);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
