@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background:linear-gradient(rgb(194, 163, 179), white);
+  background:linear-gradient(	rgb(138, 92, 116), white);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
